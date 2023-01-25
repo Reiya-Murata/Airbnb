@@ -1,0 +1,97 @@
+.navbar .nav-link{
+  color: #fff !important;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+color: var(--dark);
+font-weight: 700;
+}
+h1{
+  text-shadow: #21252f;
+}
+a{
+  color:primary;
+  text-decoration: none;
+}
+.hero {
+  background-image: url("img8.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top : -10px;
+  width: 100%;
+  height: 100%;
+}
+button{
+background-color: rgba(1, 85, 30, 0.644);
+border-radius: 5px;
+height: 60px;
+width: 200px;
+}
+.col-img-1{
+  background-image: url(img1.jpg);
+  background-position: center;
+  background-size:cover;
+  min-width: 500px;
+  min-height: 500px;
+}
+.col-img-2{
+  background-image: url(img2.jpg);
+  background-position: center;
+  background-size:cover;
+  min-width: 500px;
+  min-height: 500px;
+}
+
+.col-img-3{
+  background-image: url(img3.jpg);
+  background-position: center;
+  background-size:cover;
+  min-width: 500px;
+  min-height: 500px;
+}
+.card-img{
+  height: 270px;
+  width: auto;
+  object-fit:cover
+}
+.card{
+  border: none;
+}
+.athome{
+  background-color: rgba(0, 0, 0, 0.151);
+}
+.team{
+  background-color: rgba(1, 118, 126, 0.979);
+}
+.space{
+  background-color: #21252f56;
+}
+.link{
+text-decoration: underline !important;
+}
+.suport{
+  background-color: rgba(1, 118, 126,0.979);
+}
+.airbnb{
+  background-color: #21252f2a;
+}
+.end{
+  color: #21252f;
+}
+.end:hover{
+  color: #21252f;
+  text-decoration: underline;
+}
+.footer{
+  background-color: #21252f34;
+}
+.center{
+  text-align:center;
+}
+.airbn:hover{
+text-decoration: underline !important;
+}
